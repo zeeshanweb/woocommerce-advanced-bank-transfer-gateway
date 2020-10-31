@@ -15,11 +15,6 @@ Take payments in person via receipt.
 
 **Advanced bank transfer payment gateway for WooCommerce** plugin lets you take payments in person via receipt uploed on checkout page.
 
-For each payment gateway you have two options to choose from:
-
-* Set **included user roles** - payment gateway will be available *only* to selected roles.
-* Set **excluded user roles** - payment gateway will be *not* available to selected roles.
-
 With this plugin you can receive payment receipt from you store.
 
 == Frequently Asked Questions ==
