@@ -42,7 +42,7 @@ No
 
 == Changelog ==
 
-= 1.0.0 - 27/04/2018 =
+= 1.0.0 - 20/10/2020 =
 * Initial Release.
 
 == Upgrade Notice ==
